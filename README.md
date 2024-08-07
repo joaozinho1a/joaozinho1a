@@ -1,0 +1,3 @@
+- 🤳 Olá, meu nome é João
+- 👀 Estou estudando [Alura](https://www.alura.com.br)
+- 🌱 Divirta-se ao ver meu perfil! 😁
